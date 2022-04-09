@@ -10,7 +10,7 @@ Objectif du projet:
 
 # Exigences
 - bash
-- jenkins v.xx
+- Jenkins v.xx
 - Ansible v.xx
 - Harshicorp Vault Artifactory v.xx
 - Nexus v.xx
