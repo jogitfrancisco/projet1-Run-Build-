@@ -12,7 +12,7 @@ Objectif du projet:
 - bash
 - Jenkins v.xx
 - Ansible v.xx
-- Harshicorp Vault Artifactory v.xx
+- Harshicorp Vault v.xx
 - Nexus v.xx
 - cassandra v.xx
 
