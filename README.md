@@ -3,7 +3,7 @@ Migration et déploiement sécurisé des packages
 
 Objectif du projet: 
 
-- Migrer un code/sw de github vers bitbucket 
+- importer un code/sw de github vers bitbucket 
 - Automatiser ce code avec jenkins dans un premier temps depuis Nexus qui recevoira les packages 
 - Sauvegarder les secrets qui Ansible va utiliser pour recuperer les packages de Nexus via vault de Hashicorp 
 - Déployer les packages sur les environnements windows et linux
