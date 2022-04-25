@@ -1,9 +1,9 @@
 # projet1-Run-Build-
-Migration et déploiement sécurisé des packages
+Automatisation et déploiement sécurisé des packages
 
 Objectif du projet: 
 
-- importer un code/sw de github vers bitbucket 
+- Importer un code/sw de github vers bitbucket
 - Automatiser ce code avec jenkins dans un premier temps depuis Nexus qui recevoira les packages 
 - Sauvegarder les secrets qui Ansible va utiliser pour recuperer les packages de Nexus via vault de Hashicorp 
 - Déployer les packages sur les environnements windows et linux
